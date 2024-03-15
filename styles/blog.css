@@ -1,0 +1,22 @@
+.header{
+    height: 200px;
+    background-image: url(../images/Neha/photo.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-color: gray; */
+    background-blend-mode: multiply;
+}
+.lorem{
+    color: brown;
+}
+.page-titel{
+    color: white;
+    text-decoration: line-through dotted greenyellow;
+}
+.h2{
+    text-decoration: underline dotted ;
+    width: 20px;
+    height: 15px;
+    display:inline-block;
+}
